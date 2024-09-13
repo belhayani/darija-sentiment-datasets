@@ -9,9 +9,9 @@ Welcome to the Darija Sentiment Datasets repository! This repository is dedicate
 
 - [Overview](#overview)
 - [Datasets](#datasets)
-- [Usage](Usage)
-- [References](References)
-- [Contact](Contact)
+- [Usage](#Usage)
+- [References](#References)
+- [Contact](#Contact)
 
 
 
