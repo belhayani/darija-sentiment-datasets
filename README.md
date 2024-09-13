@@ -21,7 +21,7 @@ Welcome to the Darija Sentiment Datasets repository! This repository is dedicate
 
 |   | Dataset                                           | Data source   | Size            | Labels             | Link              | Reference |
 |----|---------------------------------------------------|---------------|-----------------|--------------------|-------------------|-----------|
-| 1  | ELEC                                              | Facebook | 10254 entries    | pos & neg           | [source](https://github.com/sentiprojects/ElecMorocco2016/)  | [2017](https://link.springer.com/chapter/10.1007/978-3-319-66854-3_20) |
+| 1  | ELEC2016                                              | Facebook | 10254 entries    | pos & neg           | [source](https://github.com/sentiprojects/ElecMorocco2016/)  | [2017](https://link.springer.com/chapter/10.1007/978-3-319-66854-3_20) |
 | 2  | MSA_MDA                                           | Facebook   | 9901 entries     | pos & neg           | [source](https://github.com/sentiprojects/MSA_MDA_comments)  | [2018](https://link.springer.com/chapter/10.1007/978-3-030-00856-7_18) |
 | 3  | MSAC                                              | Twitter   | 2000 entries     | pos & neg           | [source](https://github.com/ososs/Arabic-Sentiment-Analysis-corpus)  | [2019](https://journals.sagepub.com/doi/abs/10.1177/0165551519849516) |
 | 4  | MAC                                               | Twitter        | 18000 entries    | pos, neg, neu, and mix | [source](https://github.com/LeMGarouani/MAC)  | [2021](https://link.springer.com/chapter/10.1007/978-3-030-94191-8_68) |
