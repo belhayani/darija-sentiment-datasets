@@ -42,7 +42,7 @@ You can use these datasets to train, test, and evaluate your sentiment analysis 
 
 [[4] Garouani, M., & Kharroubi, J. (2021, November). MAC: an open and free Moroccan Arabic Corpus for sentiment analysis. In The Proceedings of the International Conference on Smart City Applications (pp. 849-858). Cham: Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-030-94191-8_68)
 
-[5] [Boujou, E., Chataoui, H., El Mekki, A., Benjelloun, S., Chairi, I., & Berrada, I. An open access NLP dataset for Arabic dialects: Data collection, labeling, and model construction. arXiv 2021. arXiv preprint arXiv:2102.11000.](https://arxiv.org/abs/2102.11000)
+[[5] Boujou, E., Chataoui, H., El Mekki, A., Benjelloun, S., Chairi, I., & Berrada, I. An open access NLP dataset for Arabic dialects: Data collection, labeling, and model construction. arXiv 2021. arXiv preprint arXiv:2102.11000.](https://arxiv.org/abs/2102.11000)
 
 [[6] Jbel, M., Jabrane, M., Hafidi, I., & Metrane, A. (2024). Sentiment analysis dataset in Moroccan dialect: bridging the gap between Arabic and Latin scripted dialect. Language Resources and Evaluation, 1-30.](https://arxiv.org/abs/2303.15987)
 
