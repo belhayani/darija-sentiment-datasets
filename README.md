@@ -1,8 +1,7 @@
 # Moroccan Arabic (Darija) Sentiment Analysis
 
 ## Overview
-
-This repository contains datasets for sentiment analysis in the **Moroccan Arabic Dialect (Darija)**. The goal of this project is to classify the sentiment of text written in Darija as either **Positive**, **Negative**, or **Neutral** using various machine learning and deep learning models, including transformer-based models.
+Welcome to the Darija Sentiment Datasets repository! This repository is dedicated to providing publicly available datasets for sentiment analysis in the **Moroccan Arabic Dialect (Darija)**.
 
 ---
 
@@ -11,8 +10,12 @@ This repository contains datasets for sentiment analysis in the **Moroccan Arabi
 - [Overview](#overview)
 - [Datasets](#datasets)
 
-- 
-Welcome to the Darija Sentiment Datasets repository! This repository is dedicated to providing publicly available datasets for sentiment analysis in the Moroccan dialect, Darija.
+
+
+
+## Datasets
+
+
 
 | Link | Dataset  Name | Year | Size  | Labels              |
 |-----------|-----------|------|-------|---------------------|
