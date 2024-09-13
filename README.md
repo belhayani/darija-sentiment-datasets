@@ -1,4 +1,4 @@
-# Moroccan Arabic (Darija) Sentiment Analysis
+# Moroccan Arabic (Darija) Sentiment Analysis Datasets
 
 ## Overview
 Welcome to the Darija Sentiment Datasets repository! This repository is dedicated to providing publicly available datasets for sentiment analysis in the **Moroccan Arabic Dialect (Darija)**.
